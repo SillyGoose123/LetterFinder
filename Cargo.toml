@@ -1,0 +1,14 @@
+[package]
+name = "letter_finder"
+version = "0.1.0"
+edition = "2021"
+
+
+[[bin]]
+name = "LetterFinder"
+path = "src/main.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[dependencies]
+reqwest = { version = "0.11.18", features = ["blocking"] }
+regex = "1.10.5"
