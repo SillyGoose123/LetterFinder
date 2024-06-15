@@ -1,3 +1,5 @@
+# LetterFinder
+
 LetterFinder is a tool to find words consisting of the given letters.
 
 [Download](https://github.com/SillyGoose123/LetterFinder/releases/download/Stable/LetterFinder.exe)
